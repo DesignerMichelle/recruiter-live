@@ -13,7 +13,7 @@ margin: 0 auto;
 width: 83%;
 }
 .logo {
-background: url("../images/sprite.png") repeat scroll -199px center rgba(0, 0, 0, 0);
+background: url("../src/images/sprite.png") repeat scroll -199px center rgba(0, 0, 0, 0);
 height: 123px;
 width: 201px;
 }
@@ -41,7 +41,7 @@ left: 30%;
 z-index: 9999;
 }
 .close {
-background: url("../images/sprite.png") repeat scroll -250px -261px rgba(0, 0, 0, 0);
+background: url("../src/images/sprite.png") repeat scroll -250px -261px rgba(0, 0, 0, 0);
 cursor: pointer;
 height: 25px;
 position: absolute;
@@ -57,4 +57,3 @@ height: 100%;
 padding: 0;
 width: 100%;
 }
-
